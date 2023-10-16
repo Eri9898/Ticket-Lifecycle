@@ -36,7 +36,7 @@ This tutorial outlines the Ticket lifecyle of the open-source help desk ticketin
 For this lab you can create multiple tickets with the different Client’s you created.!
 </p>
 <br />
-<h2>Creating Tickets as an End User</h2>
+<h2>Assigning Tickets</h2>
 </p>
 <br />
 </p>
