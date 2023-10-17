@@ -53,8 +53,7 @@ For this lab you can create multiple tickets with the different Client’s you c
 Click create
 </p>
 <br />
-7. Next you can create users (customers) for osTicket.
-Click on the Agent Panel on the top right, then Users. Input their name and email "@osticket.com", then click Add New. 
+3. Click on priority to set it to high, low, or medium.
 </p>
 <br />
 </p>
@@ -62,14 +61,7 @@ Click on the Agent Panel on the top right, then Users. Input their name and emai
 <img src="https://imgur.com/WhaOpGP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-8. Now you will add your new SLA plans. Go to admin panel, then manage, then SLA.
-	-Enter a name
--Select schedule, what days of the week
--Grace period, how soon it must be resolved.
--add plan
--Now you can go back to departments (see step 3 for how to get to departments if needed). Click on ea department and then from the SLA tab you can expand the list and choose from the SLAs you created. You do not need to select anything for schedule.
-
-
+4.Click next to assigned to and the list of Agents should open up. The whomever you want the ticket click on their name and it will be transferred to them.Click next to assigned to and the list of Agents should open up. The whomever you want the ticket click on their name and it will be transferred to them.
 </p>
 <br />
 </p>
@@ -77,10 +69,50 @@ Click on the Agent Panel on the top right, then Users. Input their name and emai
 <img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-9. Next you will configure help topics. This is a list that will pop up for end users when they want to select what general issue they have when creating their tickets. 
-Click on Admin Panel, then manage then help topics.Click add new.
--Topic: Whatever issue you want to name ex. Computer issues or password reset
-                       Status=active
-                       Parent topic= top level 
+5.Within the post reply tab you can respond to End USer’s after updating their tickets.At the bottom you can select the ticket status. Then post the reply.
+</p>
+<br />
+</p>
+<br />
+<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+6. Next to the reply tab there is an internal notes tab used to relay notes if the ticket is being assigned or switched between multiple agents.
+</p>
+<br />
+</p>
+<br />
+<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+7. When you back out onto the list of tickets, you should see the first one with updated priorit and assignment.
+-IF you select the open status it will remain in the quee. If you select resolved it will be grouped with closed tickets. If you click on a closed ticket you can review all the past edits made on the tickets and the responses between the end ussr’s and agents.
+</p>
+<br />
+</p>
+<br />
+<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+8. You may repeat this process with multiple tickets and select different options for the status, priority, and SLA to see how it affects them.
+</p>
+<br />
+</p>
+<br />
+<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+You can also log in as an Agent and see how the permissions differ. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to themt hey cannot reply to the client either. You can also log in as an Agent and see how the permissions differ. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to themt hey cannot reply to the client either. 
+</p>
+<br />
+<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
+You can also see all edits made to the tickets and also the responses of all Agen’ts, and End User’s regarding the ticket. It is a good habit to look at the history of closed tickets IRL tog et an idea of what problems seem to happen the most as well as which solutions seem to work best. They can only see tickets assigned to them. 
+</p>
+<br />
+<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
