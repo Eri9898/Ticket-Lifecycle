@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket -Ticket Life Cycle</h1>
-This tutorial outlines the Ticket lifecyle of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines how to create tickets as an end user, how to create agents as an admin, and how agents and admins can imteract with tickets.<br />
 
 <h2>Environments and Technologies Used</h2>
 
