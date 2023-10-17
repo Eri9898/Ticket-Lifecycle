@@ -33,7 +33,7 @@ This tutorial outlines how to create tickets as an end user, how to create agent
 3.Fill out the summary and the details and create the ticket
 </p>
 <br />
-For this lab you can create multiple tickets with the different Client’s you created.!
+For this lab you can create multiple tickets with the different Client’s you created!
 </p>
 <br />
 <h2>Assigning Tickets</h2>
