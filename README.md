@@ -21,7 +21,7 @@ This tutorial outlines the Ticket lifecyle of the open-source help desk ticketin
 
 <p>
 
-<img src="https://imgur.com/IsPsKoj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/69lGgqX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 1. Go to the end user website http://localhost/osTicket/  and click on open a new ticket.
@@ -46,7 +46,7 @@ For this lab you can create multiple tickets with the different Client’s you c
 <br />
 </p>
 <br />
-<img src="https://imgur.com/kY6gu50.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/rkypfaw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 2. Usually the lead Help desk person will assign the ticket to an Agent and also makes sure the tickets follow SLA guidelines. So in order to do that you must click on a ticket and the read through it. To adjust the SLA  (Severity Leve) of a ticket you may click on  SLA plan and select from the lsit.
@@ -58,23 +58,13 @@ Click create
 <br />
 </p>
 <br />
-<img src="https://imgur.com/WhaOpGP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WRH1aFA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 4.Click next to assigned to and the list of Agents should open up. The whomever you want the ticket click on their name and it will be transferred to them.Click next to assigned to and the list of Agents should open up. The whomever you want the ticket click on their name and it will be transferred to them.
 </p>
 <br />
-</p>
-<br />
-<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
 5.Within the post reply tab you can respond to End USer’s after updating their tickets.At the bottom you can select the ticket status. Then post the reply.
-</p>
-<br />
-</p>
-<br />
-<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 6. Next to the reply tab there is an internal notes tab used to relay notes if the ticket is being assigned or switched between multiple agents.
@@ -82,37 +72,22 @@ Click create
 <br />
 </p>
 <br />
-<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ssHAyDE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 7. When you back out onto the list of tickets, you should see the first one with updated priorit and assignment.
--IF you select the open status it will remain in the quee. If you select resolved it will be grouped with closed tickets. If you click on a closed ticket you can review all the past edits made on the tickets and the responses between the end ussr’s and agents.
-</p>
-<br />
-</p>
-<br />
-<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-8. You may repeat this process with multiple tickets and select different options for the status, priority, and SLA to see how it affects them.
-</p>
-<br />
-</p>
-<br />
-<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-You can also log in as an Agent and see how the permissions differ. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to themt hey cannot reply to the client either. You can also log in as an Agent and see how the permissions differ. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to themt hey cannot reply to the client either. 
-</p>
-<br />
-<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+-IF you select the open status it will remain in the quee. If you select resolved it will be grouped with closed tickets. If you click on a closed ticket you can review all the past edits made on the tickets and the responses between the end ussr’s and agents. *It is a good habit to look at the history of closed tickets IRL to get an idea of what problems seem to happen the most as well as which solutions seem to work best.*
 </p>
 <br />
 
-You can also see all edits made to the tickets and also the responses of all Agen’ts, and End User’s regarding the ticket. It is a good habit to look at the history of closed tickets IRL tog et an idea of what problems seem to happen the most as well as which solutions seem to work best. They can only see tickets assigned to them. 
+You may repeat this process with multiple tickets and select different options for the status, priority, and SLA to see how it affects them.
 </p>
 <br />
-<img src="https://imgur.com/KGGPYvj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+<img src="https://imgur.com/IV7Q7kX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+You can also log in as an Agent and see how the permissions differ. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to themt they cannot reply to the client either. 
+
 
