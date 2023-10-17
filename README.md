@@ -21,7 +21,7 @@ This tutorial outlines how to create tickets as an end user, how to create agent
 
 <p>
 
-<img src=".png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/69lGgqX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 1. Go to the end user website http://localhost/osTicket/  and click on open a new ticket.
