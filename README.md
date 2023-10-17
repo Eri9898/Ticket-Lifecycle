@@ -42,14 +42,14 @@ For this lab you can create multiple tickets with the different Client’s you c
 </p>
 <br />
 <img src="https://imgur.com/LVNYJG2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-5. 
+1. You will log in as an Admin and look at the tickets, click on sign in.
 <br />
 </p>
 <br />
 <img src="https://imgur.com/kY6gu50.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-6. 
+2. Usually the lead Help desk person will assign the ticket to an Agent and also makes sure the tickets follow SLA guidelines. So in order to do that you must click on a ticket and the read through it. To adjust the SLA  (Severity Leve) of a ticket you may click on  SLA plan and select from the lsit.
 Click create
 </p>
 <br />
