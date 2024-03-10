@@ -33,7 +33,7 @@ This tutorial outlines how to create tickets as an end user, how to create agent
 3.Fill out the summary and the details and create the ticket
 </p>
 <br />
-For this lab you can create multiple tickets with the different Client’s you created!
+For this lab you can create multiple tickets with the different client’s you created!
 </p>
 <br />
 <h2>Assigning Tickets</h2>
@@ -48,7 +48,7 @@ For this lab you can create multiple tickets with the different Client’s you c
 <img src="https://imgur.com/rkypfaw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-2. Usually the lead Help desk person will assign the ticket to an Agent and also makes sure the tickets follow SLA guidelines. So in order to do that you must click on a ticket and the read through it. To adjust the SLA  (Severity Leve) of a ticket you may click on SLA plan and select from the list.
+2. Usually the lead Help desk person will assign the ticket to an Agent and also makes sure the tickets follow SLA guidelines. So in order to do that you must click on a ticket and the read through it. To adjust the SLA  (Severity Level) of a ticket you may click on SLA plan and select from the list.
 </p>
 Click create
 </p>
@@ -61,7 +61,7 @@ Click create
 <img src="https://imgur.com/WRH1aFA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-4.Click next to "assigned to" and the list of Agents should open up. Then click on the name of the agent you want to senmd the ticket to.
+4.Click next to "assigned to" and the list of Agents should open up. Then click on the name of the agent you want to send the ticket to.
 </p>
 <br />
 5.Within the post reply tab you can respond to End User’s after updating their tickets. At the bottom you can select the ticket status. Then post the reply.
@@ -77,9 +77,9 @@ Click create
 <br />
 7. When you back out onto the list of tickets, you should see the first one with updated priority and assignment.
 </p>
--If you select the open status it will remain in the quee. If you select resolved it will be grouped with closed tickets. 
+-If you select the open status it will remain in the queue. If you select resolved it will be grouped with closed tickets. 
 </p>
-If you click on a closed ticket you can review all the past edits made on the tickets and the responses between the end ussr’s and agents. *It is a good habit to look at the history of closed tickets IRL to get an idea of what problems seem to happen the most as well as which solutions seem to work best.*
+If you click on a closed ticket you can review all the past edits made on the tickets and the responses between the end users and agents. *It is a good habit to look at the history of closed tickets IRL to get an idea of what problems seem to happen the most as well as which solutions seem to work best.*
 </p>
 <br />
 
@@ -91,6 +91,6 @@ You may repeat this process with multiple tickets and select different options f
 <img src="https://imgur.com/IV7Q7kX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-You can also log in as an Agent and see how the permissions differ. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to themt they cannot reply to the client either. 
+You can also log in as an Agent and see how the permissions differ from the Admin. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to themt they cannot reply to the client either. 
 
 
