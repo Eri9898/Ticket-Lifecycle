@@ -83,7 +83,7 @@ If you click on a closed ticket you can review all the past edits made on the ti
 </p>
 <br />
 
-You may repeat this process with multiple tickets and select different options for the status, priority, and SLA to see how it affects them.
+8. You may repeat this process with multiple tickets and select different options for the status, priority, and SLA to see how it affects them.
 </p>
 <br />
 </p>
@@ -92,5 +92,8 @@ You may repeat this process with multiple tickets and select different options f
 </p>
 <br />
 You can also log in as an Agent and see how the permissions differ from the Admin. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to themt they cannot reply to the client either. 
+
+9. So within OSTicket, tickets are created with end users' issues on them, Admins and Agents can look through the tickets. This softwre can be utilized by buisnesses to help them organize issues
+and also ensure that they are being resolved in a timely manner while also keeping in touch with the end users!
 
 
