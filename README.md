@@ -1,9 +1,9 @@
-# TicketLifecycleOSTicket
+# OSTicket Usage Examples
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket -Ticket Life Cycle</h1>
+<h1>osTicket Usage Examples<h1>
 This tutorial outlines how to create tickets as an end user, how to create agents as an admin, and how agents and admins can interact with tickets.<br />
 
 <h2>Environments and Technologies Used</h2>
