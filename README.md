@@ -1,11 +1,14 @@
 # OSTicket Usage Examples
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+
 
 <h1>osTicket Usage Examples<h1>
-This tutorial outlines how to create tickets as an end user, how to create agents as an admin, and how agents and admins can interact with tickets.<br />
-
+</p>
+<br />
+This tutorial outlines how to create tickets as an end user, how to create agents as an admin, and how agents and admins can interact with tickets.
+</p>
+<br />
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
@@ -33,7 +36,7 @@ This tutorial outlines how to create tickets as an end user, how to create agent
 3.Fill out the summary and the details and create the ticket
 </p>
 <br />
-For this lab you can create multiple tickets with the different client’s you created!
+For this lab you can create multiple tickets with the different users/agents you created!
 </p>
 <br />
 <h2>Assigning Tickets</h2>
@@ -41,7 +44,7 @@ For this lab you can create multiple tickets with the different client’s you c
 <br />
 </p>
 <br />
-1. You will log in as an Admin and look at the tickets, click on sign in.
+1. You will log in as an Admin and look at the tickets, click on sign in as an agent.
 <br />
 </p>
 <br />
