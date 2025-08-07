@@ -30,7 +30,7 @@ This tutorial outlines how to create tickets as an end user, how to create agent
 1. Go to the end user website http://localhost/osTicket/  and click on open a new ticket.
 </p>
 <br />
-2. Enter the End User's/ Client’s email and name to start creating a ticket.
+2. Enter the User's email and name to start creating a ticket.
 </p>
 <br />
 3.Fill out the summary and the details and create the ticket
@@ -51,12 +51,12 @@ For this lab you can create multiple tickets with the different users/agents you
 <img src="https://imgur.com/rkypfaw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-2. Usually the lead Help desk person will assign the ticket to an Agent and also makes sure the tickets follow SLA guidelines. So in order to do that you must click on a ticket and read through it. To adjust the SLA  (Severity Level) of a ticket you may click on SLA plan and select from the list.
+2. Usually the Help desk lead will assign the ticket to an Agent and also makes sure the tickets follow SLA guidelines. So in order to do that you must click on a ticket and read through it. The top left cprner lists the status of a ticket (opened, resolved or closed), the SLA, and Dept handling the ticket. Each of these can be edited by clicking on the word itself.
 </p>
 Click create
 </p>
 <br />
-3. Click on priority to set it to high, low, or medium.
+3. Click on priority to set it to high, low, or medium for the SLA
 </p>
 <br />
 </p>
@@ -64,7 +64,7 @@ Click create
 <img src="https://imgur.com/WRH1aFA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-4.Click next to "assigned to" and the list of Agents should open up. Then click on the name of the agent you want to send the ticket to.
+4. Click next to "assigned to" and the list of Agents should open up. Then click on the name of the agent you want to send the ticket to.
 </p>
 <br />
 5.Within the post reply tab you can respond to End User’s after updating their tickets. At the bottom you can select the ticket status. Then post the reply.
@@ -82,7 +82,7 @@ Click create
 </p>
 -If you select the open status it will remain in the queue. If you select resolved it will be grouped with closed tickets. 
 </p>
-If you click on a closed ticket you can review all the past edits made on the tickets and the responses between the end users and agents. *It is a good habit to look at the history of closed tickets IRL to get an idea of what problems seem to happen the most as well as which solutions seem to work best.*
+If you click on a closed ticket you can review all the past edits made on the tickets and the responses between the end users and agents. It is a good habit to look at the history of closed tickets IRL to get an idea of what problems seem to happen the most as well as which solutions seem to work best.
 </p>
 <br />
 
@@ -94,7 +94,7 @@ If you click on a closed ticket you can review all the past edits made on the ti
 <img src="https://imgur.com/IV7Q7kX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-You can also log in as an Agent and see how the permissions differ from the Admin. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to themt they cannot reply to the client either. 
+You can also log in as an Agent and see how the permissions differ from the Admin. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to them they cannot reply to the client either. 
 
 9. So within OSTicket, tickets are created with end users' issues on them, Admins and Agents can look through the tickets. This softwre can be utilized by buisnesses to help them organize issues
 and also ensure that they are being resolved in a timely manner while also keeping in touch with the end users!
