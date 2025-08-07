@@ -2,8 +2,6 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 
-
-<h1>osTicket Usage Examples<h1>
 </p>
 <br />
 This tutorial outlines how to create tickets as an end user, how to create agents as an admin, and how agents and admins can interact with tickets.
@@ -67,7 +65,7 @@ Click create
 4. Click next to "assigned to" and the list of Agents should open up. Then click on the name of the agent you want to send the ticket to.
 </p>
 <br />
-5.Within the post reply tab you can respond to End User’s after updating their tickets. At the bottom you can select the ticket status. Then post the reply.
+5. Within the post reply tab you can respond to End User’s after updating their tickets. At the bottom you can select the ticket status. Then post the reply.
 </p>
 <br />
 6. Next to the reply tab there is an internal notes tab used to relay notes if the ticket is being assigned or switched between multiple agents.
@@ -79,13 +77,10 @@ Click create
 </p>
 <br />
 7. When you back out onto the list of tickets, you should see the first one with updated priority and assignment.
-</p>
--If you select the open status it will remain in the queue. If you select resolved it will be grouped with closed tickets. 
-</p>
+If you select the open status it will remain in the queue. If you select resolved it will be grouped with closed tickets. 
 If you click on a closed ticket you can review all the past edits made on the tickets and the responses between the end users and agents. It is a good habit to look at the history of closed tickets IRL to get an idea of what problems seem to happen the most as well as which solutions seem to work best.
 </p>
 <br />
-
 8. You may repeat this process with multiple tickets and select different options for the status, priority, and SLA to see how it affects them.
 </p>
 <br />
@@ -94,9 +89,6 @@ If you click on a closed ticket you can review all the past edits made on the ti
 <img src="https://imgur.com/IV7Q7kX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-You can also log in as an Agent and see how the permissions differ from the Admin. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to them they cannot reply to the client either. 
-
-9. So within OSTicket, tickets are created with end users' issues on them, Admins and Agents can look through the tickets. This softwre can be utilized by buisnesses to help them organize issues
-and also ensure that they are being resolved in a timely manner while also keeping in touch with the end users!
+You can also log in as an Agent and see how the permissions differ from the Admin. Agents can see all of the tickets but they cannot edit them. If the ticket is not assigned to them they cannot reply to the client either. Tickets are created with end users' issues on them, and Admins and Agents can look through the tickets. This softwre can be utilized by buisnesses to help them organize issues and also ensure that they are being resolved in a timely manner while also keeping in touch with the end users!
 
 
