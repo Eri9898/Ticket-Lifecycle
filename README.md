@@ -1,10 +1,10 @@
-# OSTicket Usage Examples
+# OSTicket Usage Examples (Post- Install)
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 
 </p>
 <br />
-This tutorial outlines how to create tickets as an end user, how to create agents as an admin, and how agents and admins can interact with tickets.
+This tutorial walks through how to create tickets as an end user, how to manage tickets as an Admin, and how Agents interact with tickets throughout the support lifecycle.
 </p>
 <br />
 <h2>Environments and Technologies Used</h2>
