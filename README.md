@@ -56,10 +56,10 @@ For this lab you can create multiple tickets with the different users/agents you
 3. Click on priority to set it to high, low, or medium for the SLA
 </p>
 <br />
-<img src="https://imgur.com/WRH1aFA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Assign to Agent</h2>
 </p>
 <br />
-<h2>Assign to Agent</h2>
+<img src="https://imgur.com/WRH1aFA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 4. Click next to "assigned to" and the list of Agents should open up. Then click on the name of the agent you want to send the ticket to.
@@ -77,9 +77,7 @@ For this lab you can create multiple tickets with the different users/agents you
 6. Next to the reply tab there is an internal notes tab used to relay notes if the ticket is being assigned or switched between multiple agents. 
 </p>
 <br />
-</p>
-<br />
-<img src="https://imgur.com/ssHAyDE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IV7Q7kX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <h2>Ticket Status Lifecycle</h2>
@@ -91,11 +89,6 @@ If you click on a closed ticket you can review all the past edits made on the ti
 </p>
 <br />
 8. You may repeat this process with multiple tickets and select different options for the status, priority, and SLA to see how it affects them.
-</p>
-<br />
-</p>
-<br />
-<img src="https://imgur.com/IV7Q7kX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <h2>Agent vs Admin Permissions</h2>
