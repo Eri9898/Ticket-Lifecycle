@@ -21,7 +21,7 @@ This tutorial walks through how to create tickets as an end user, how to manage 
 <h2>Creating Tickets as an End User</h2>
 </p>
 <br />
-<img src="X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fsndTrp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 1. Go to the end user website http://localhost/osTicket/  and click on open a new ticket.
