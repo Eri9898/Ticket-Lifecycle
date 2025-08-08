@@ -1,4 +1,4 @@
-# OSTicket Usage Examples (Post-Install)
+# OSTicket Usaege Examples (Post-Install)
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 
