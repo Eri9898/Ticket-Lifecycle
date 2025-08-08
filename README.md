@@ -21,7 +21,7 @@ This tutorial walks through how to create tickets as an end user, how to manage 
 <h2>Creating Tickets as an End User</h2>
 </p>
 <br />
-<img src="https://imgur.com/69lGgqX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 1. Go to the end user website http://localhost/osTicket/  and click on open a new ticket.
@@ -35,6 +35,9 @@ For this lab you can create multiple tickets with the different users/agents you
 </p>
 <br />
 <h2>Assigning Tickets</h2>
+</p>
+<br />
+<img src="https://imgur.com/69lGgqX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 1. You will log in as an Admin and look at the tickets, click on sign in as an agent.
