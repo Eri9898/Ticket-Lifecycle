@@ -24,7 +24,7 @@ This tutorial walks through how to create tickets as an end user, how to manage 
 <img src="https://imgur.com/fsndTrp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-1. Go to the end user website http://localhost/osTicket/  and click on open a new ticket.
+1. Go to the end user website http://localhost/osTicket/  and click on open a new ticket. Deploy network-level protections such as rate limiting or Azure’s DDoS protection to prevent spam or brute force attacks on the ticket creation endpoint.
 </p>
 <br />
 2. Enter the User's email and name to start creating a ticket.
